@@ -50,7 +50,7 @@ define( 'FORGOT_PASSWORD_LINK', 'Мой пароль?' );
 // define( 'ADMIN_LOGOUT_LINK', 'Выйти' );
 define( 'ADMINISTRATE_LINK', 'Admin' );
 define( 'ADMIN_BACK_TO_SHOP', 'Shop' );
-define( 'ADMIN_LOGOUT_LINK', 'Log-out' );
+define( 'ADMIN_LOGOUT_LINK', 'Logout !!!' );
 define( 'LOGOUT_LINK', 'Выйти из кабинета' );
 define( 'TERMINATE_ACCOUNT_LINK', 'Удалить учетную запись' );
 define( 'POST_BUTTON', 'Добавить сообщение' );
