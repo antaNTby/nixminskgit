@@ -8,18 +8,6 @@ SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
 SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
 
  phperrorlog 
-2024-03-29 15:06:20.067 @ count(): Parameter must be an array or an object that implements Countable 
- W:\domains\nixminsk.os\core\classes\class.adminSSP.php:647
->>>>>>>>>> 2024-03-29 15:12:23.110 <<<<<<<<<<<<<<  
-SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
-
- phperrorlog 
-2024-03-29 15:12:23.111 @ count(): Parameter must be an array or an object that implements Countable 
- W:\domains\nixminsk.os\core\classes\class.adminSSP.php:647
->>>>>>>>>> 2024-03-29 15:13:37.395 <<<<<<<<<<<<<<  
-SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
-
- phperrorlog 
 2024-03-29 15:13:37.395 @ count(): Parameter must be an array or an object that implements Countable 
  W:\domains\nixminsk.os\core\classes\class.adminSSP.php:647
 >>>>>>>>>> 2024-03-29 15:13:55.244 <<<<<<<<<<<<<<  
